@@ -3,12 +3,17 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *"  # Every 12 hours
-  workflow_dispatch:     # Allows manual run
+  workflow_dispatch:
+
+permissions:
+  contents: write  # This helps with permissions
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4  # Checkout your repo first
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
