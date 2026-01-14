@@ -7,7 +7,7 @@
 
 # Hi there, I'm Zahid Ali Khan 👋
 
-**Full-Stack Developer | Open Source Enthusiast | Problem Solver**
+**Full-Stack Developer | Open Source | Problem Solver**
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/zahid-ali-khan-789992317/)
@@ -17,7 +17,7 @@
 
 ### 💻 Tech Stack
 
-Python • JavaScript • HTML/CSS • PHP • MySQL • Laravel • React • Node.js • Git • GitHub
+ HTML/CSS • JavaScript • PHP • MySQL • Laravel • React • Node.js • Git • GitHub
 
 
 
